@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-3tnx07/static/css/main.54b5e04f.chunk.css",
+    "main.js": "https://.github.io/csb-3tnx07/static/js/main.f1af7c47.chunk.js",
+    "main.js.map": "https://.github.io/csb-3tnx07/static/js/main.f1af7c47.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-3tnx07/static/js/runtime-main.7caacc8f.js",
+    "runtime-main.js.map": "https://.github.io/csb-3tnx07/static/js/runtime-main.7caacc8f.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://.github.io/csb-3tnx07/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://.github.io/csb-3tnx07/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://.github.io/csb-3tnx07/index.html",
+    "static/css/main.54b5e04f.chunk.css.map": "https://.github.io/csb-3tnx07/static/css/main.54b5e04f.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://.github.io/csb-3tnx07/static/js/2.b21dc211.chunk.js.LICENSE.txt",
+    "static/media/reuben.d396b0ed.jpeg": "https://.github.io/csb-3tnx07/static/media/reuben.d396b0ed.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7caacc8f.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.54b5e04f.chunk.css",
+    "static/js/main.f1af7c47.chunk.js"
+  ]
+}
